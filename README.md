@@ -1,29 +1,108 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Wakodikar</h1>
-<h3 align="center">A passionate developer from INDIA</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu256&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu256" /> </p>
+# Hey, I'm Divyanshu 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu256" alt="divyanshu256" /></a> </p>
+**Business Analyst · Data Analytics · Power BI · SQL · GCP**
 
-- 📫 How to reach me **divyanshuwakodikar256@gmail.com**
+*Turning messy data into decisions that matter*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pKKNl4r0HK8oS-uvmiBc50nwuaTXpKeQ/view?usp=drive_link](https://drive.google.com/file/d/1pKKNl4r0HK8oS-uvmiBc50nwuaTXpKeQ/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuwakodikar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divyanshu-wakodikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu-wakodikar" height="30" width="40" /></a>
-<a href="https://kaggle.com/divyanshuwakodikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divyanshuwakodikar" height="30" width="40" /></a>
-<a href="https://instagram.com/divyanshuwakodikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyanshuwakodikar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/divyanshuwakodi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyanshuwakodi1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divyanshuwakodikar256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshuwakodikar256" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/divyanshuwakodikar256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyanshuwakodikar256" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu256&show_icons=true&locale=en&layout=compact" alt="divyanshu256" /></p>
+## 👤 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu256&show_icons=true&locale=en" alt="divyanshu256" /></p>
+I'm a Business Analyst based in **Nagpur, India**, with hands-on client-facing experience at **Accenture** in the retail/e-commerce space. I sit at the intersection of data engineering and business storytelling — I speak fluent SQL *and* stakeholder.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu256&" alt="divyanshu256" /></p>
+- 🏢 Recently worked as a **Business Analyst & Data Associate** at Accenture, delivering cloud-based sales & revenue reporting on **GCP** for a large retail client
+- 📊 I translate vague business problems into crisp KPIs, clean pipelines, and dashboards that people actually use
+- ☁️ Comfortable across the **GCP stack** — BigQuery, Workflows, Dataflow, Cloud Composer, Dataplex
+- 🤖 Exploring how **Gen AI** can accelerate analytics workflows (metadata validation, auto-generated narratives, NL Q&A)
+- 🎓 B.Tech in CS (Data Science) from RCOEM, Nagpur
+
+---
+
+## 🛠️ Tech Stack
+
+**Analytics & BI**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Cloud (GCP)**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Dataplex](https://img.shields.io/badge/Dataplex-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Tools & Methods**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-009FDA?style=flat-square&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 [RevIQ — AI-Powered Revenue Intelligence Platform](https://github.com)
+> Python · Groq LLaMA 3.3 · Power BI · Flask · pandas
+
+Built an end-to-end revenue analytics platform on the Superstore dataset. Integrated Groq's LLaMA 3.3 to auto-generate executive summaries and anomaly flags from live KPIs. Shipped a 6-page Power BI dashboard (20+ visuals) and a Flask app for natural language Q&A over business data.
+
+---
+
+### 🔷 D2C Revenue & Logistics Cost Analysis
+> Excel · Python · P&L Modeling · Marketing Analytics
+
+Built a full D2C P&L model for a travel brand — 4,400+ orders, computing GMV, Net Sales, CM1 & CM2 across product, zone, and size dimensions. Surfaced a –49.7% CM2 driven by logistics and ad spend inefficiencies.
+
+---
+
+### 🔷 Subspace.money — Product Teardown
+> Product Analysis · Unit Economics · GTM Strategy
+
+Identified 6 structural gaps across UX, monetisation, and GTM. Modelled a revenue expansion path from ₹36.5 Cr to ₹360 Cr ARR through diversified monetisation and a B2B pivot strategy.
+
+---
+
+### 🔷 [Spotify Data Analysis Dashboard](https://github.com)
+> Power BI · SQL
+
+Analysed 50K+ tracks to surface streaming trends and artist performance patterns using interactive Power BI dashboards with KPI cards and heat maps.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to interesting conversations about data, product, or analytics. Feel free to reach out!
+
+📧 divyanshuwakodikar@gmail.com · 📍 Nagpur, India
+
+---
+
+<div align="center">
+<sub>Built with curiosity and a lot of BigQuery queries ☁️</sub>
+</div>
